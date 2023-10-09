@@ -1,0 +1,1 @@
+{"school work": ["buy copy", "send notes", "learn oop", "practice DS", "do something"], "home": ["buy cell", "pay bill", "fill tank"], "office": ["read email", "pay salary"]}
