@@ -66,10 +66,6 @@ Select operation:
 
         else:
             return
-        # for listTitle in grandTaskList:
-        #     print("\n>>> ", listTitle)
-            # for listContent in grandTaskList[listTitle]:
-            #     print(listContent)
     elif firstInterfaceChoice == 2:
         newListTitle = input('Enter list title: ')
         print('\nEnter "e" when you have entered all tasks')
